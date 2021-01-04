@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://blogadmin.glitch.me",
+    "contentApiKey": "b854b07de0429d3faa5040689d"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://blogadmin.glitch.me",
+    "contentApiKey": "b854b07de0429d3faa5040689d"
   }
 }
