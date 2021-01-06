@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://blogadmin.glitch.me",
-    "contentApiKey": "b854b07de0429d3faa5040689d"
+    "apiUrl": "https://blogadmin.digitalpress.blog",
+    "contentApiKey": "788f8acd38ccdac3165fc99a51"
   },
   "production": {
-    "apiUrl": "https://blogadmin.glitch.me",
-    "contentApiKey": "b854b07de0429d3faa5040689d"
+    "apiUrl": "https://blogadmin.digitalpress.blog",
+    "contentApiKey": "788f8acd38ccdac3165fc99a51"
   }
 }
